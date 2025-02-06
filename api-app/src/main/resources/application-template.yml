@@ -1,0 +1,11 @@
+quarkus:
+  http:
+    root-path: /api
+
+app:
+  adapters:
+    github:
+      api:
+        url: "url_to_ai"
+      key: "access_key"
+      prompt: "prompt"

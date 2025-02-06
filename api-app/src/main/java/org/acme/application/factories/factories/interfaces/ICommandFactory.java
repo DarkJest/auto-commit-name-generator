@@ -1,4 +1,4 @@
-package org.acme.application.generatives.factories.interfaces;
+package org.acme.application.factories.factories.interfaces;
 
 import org.acme.presentation.http.requests.IRequest;
 import org.acme.shared.interfaces.commands.Command;

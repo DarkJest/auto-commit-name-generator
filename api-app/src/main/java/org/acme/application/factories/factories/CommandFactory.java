@@ -1,8 +1,8 @@
-package org.acme.application.generatives.factories;
+package org.acme.application.factories.factories;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import org.acme.application.command.EditedFilesCommand;
-import org.acme.application.generatives.factories.interfaces.ICommandFactory;
+import org.acme.application.factories.factories.interfaces.ICommandFactory;
 import org.acme.presentation.http.requests.EditedFilesRequest;
 import org.acme.presentation.http.requests.IRequest;
 import org.acme.shared.interfaces.commands.Command;

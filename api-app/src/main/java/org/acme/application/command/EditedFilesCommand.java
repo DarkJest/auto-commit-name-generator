@@ -1,6 +1,5 @@
 package org.acme.application.command;
 
-import org.acme.application.dto.EditedFilesDTO;
 import org.acme.presentation.http.responses.GenerateCommitNameResponse;
 import org.acme.shared.interfaces.commands.CommandWithResult;
 
